@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "decorativeboxes",
+  "version": "${version}",
+  "name": "Decorative Boxes",
+  "description": "Decorative Boxes",
+  "authors": ["swzo"],
+  "contact": {
+    "repo": "https://github.com/serverside-swzo/DecorativeBoxes"
+  },
+  "license": "MIT",
+  "icon": "decorativeboxes.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.swzo.decorativeboxes.decorativeboxes"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "filament": ">=0.8.3"
+  }
+}

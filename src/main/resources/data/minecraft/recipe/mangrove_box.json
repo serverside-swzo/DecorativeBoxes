@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:mangrove_slab"
+        }
+    },
+    "result": {
+        "id": "decorativeboxes:mangrove_box",
+        "count": 3
+    },
+    "group": "box"
+}

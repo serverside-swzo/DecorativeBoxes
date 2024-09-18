@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "decorativeboxes:acacia_box",
+    "decorativeboxes:bamboo_box",
+    "decorativeboxes:birch_box",
+    "decorativeboxes:cherry_box",
+    "decorativeboxes:crimson_box",
+    "decorativeboxes:dark_oak_box",
+    "decorativeboxes:jungle_box",
+    "decorativeboxes:mangrove_box",
+    "decorativeboxes:oak_box",
+    "decorativeboxes:spruce_box",
+    "decorativeboxes:warped_box"
+  ]
+}

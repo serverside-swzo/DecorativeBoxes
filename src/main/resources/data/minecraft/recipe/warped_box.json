@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:warped_slab"
+        }
+    },
+    "result": {
+        "id": "decorativeboxes:warped_box",
+        "count": 3
+    },
+    "group": "box"
+}

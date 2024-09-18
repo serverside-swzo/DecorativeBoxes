@@ -1,0 +1,15 @@
+{
+  "id": "decorativeboxes:cherry_box",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/box/cherry"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:cherry_planks",
+    "destroyTime": 2,
+    "explosionResistance": 3,
+    "requiresTool": false
+  }
+}

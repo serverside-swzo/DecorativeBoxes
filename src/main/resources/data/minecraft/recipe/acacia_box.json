@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:acacia_slab"
+        }
+    },
+    "result": {
+        "id": "decorativeboxes:acacia_box",
+        "count": 3
+    },
+    "group": "box"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "decorativeboxes:warped_box",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/box/warped"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:warped_planks",
+    "destroyTime": 2,
+    "explosionResistance": 3,
+    "requiresTool": false
+  }
+}

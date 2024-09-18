@@ -1,0 +1,15 @@
+{
+  "id": "decorativeboxes:mangrove_box",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/box/mangrove"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:mangrove_planks",
+    "destroyTime": 2,
+    "explosionResistance": 3,
+    "requiresTool": false
+  }
+}

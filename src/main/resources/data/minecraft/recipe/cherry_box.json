@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cherry_slab"
+        }
+    },
+    "result": {
+        "id": "decorativeboxes:cherry_box",
+        "count": 3
+    },
+    "group": "box"
+}
