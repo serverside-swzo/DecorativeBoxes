@@ -1,6 +1,6 @@
 ![Banner](https://cdn.modrinth.com/data/cached_images/d0d8d27986e0b2bfcf4231028fbd26adf786a04f.jpeg)
 [![Filament](https://cdn.modrinth.com/data/cached_images/36c39e31545c2667e224c7cd9a6a53ed8436b608.png)](https://modrinth.com/mod/filament)
-[![Polymer](https://imgur.com/Tosv37t.png)]([https://modrinth.com/mod/polymer](https://modrinth.com/mod/polymer))
+[![Polymer](https://imgur.com/Tosv37t.png)](https://modrinth.com/mod/polymer)
 [![Fabric](https://cdn.modrinth.com/data/cached_images/b5f2bbe24d378d863f70c8b4bf7bf9c0ef2b56f7.png)](https://fabricmc.net/)
 [![Modrinth](https://cdn.modrinth.com/data/cached_images/50f2eaa6263492cc65f49ef84a31e7d9fb51179c.png)](https://modrinth.com/mod/decorative-boxes)
 [![Github](https://cdn.modrinth.com/data/cached_images/41dfe80a399c0c8466f8cecc9f35048de5066e11.png)](https://github.com/serverside-swzo/DecorativeBoxes)
