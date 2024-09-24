@@ -6,6 +6,7 @@
     }
   },
   "blockModelType": "full_block",
+  "group": "decorativeboxes:decorativeboxes",
   "properties": {
     "blockBase": "minecraft:cherry_planks",
     "destroyTime": 2,

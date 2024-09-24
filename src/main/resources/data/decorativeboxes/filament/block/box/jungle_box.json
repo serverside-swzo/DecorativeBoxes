@@ -1,13 +1,14 @@
 {
-  "id": "decorativeboxes:crimson_box",
+  "id": "decorativeboxes:jungle_box",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/box/crimson"
+      "default": "minecraft:custom/block/wood/box/jungle"
     }
   },
   "blockModelType": "full_block",
+  "group": "decorativeboxes:decorativeboxes",
   "properties": {
-    "blockBase": "minecraft:oak_planks",
+    "blockBase": "minecraft:jungle_planks",
     "destroyTime": 2,
     "explosionResistance": 3,
     "requiresTool": false

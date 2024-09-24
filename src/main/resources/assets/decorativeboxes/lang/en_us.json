@@ -9,5 +9,6 @@
   "block.decorativeboxes.birch_box": "Birch Box",
   "block.decorativeboxes.dark_oak_box": "Dark Oak Box",
   "block.decorativeboxes.warped_box": "Warped Box Box",
-  "block.decorativeboxes.acacia_box": "Acacia Box"
+  "block.decorativeboxes.acacia_box": "Acacia Box",
+  "decorativeboxes.itemGroup.decorativeboxes": "Decorative Boxes"
 }

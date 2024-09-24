@@ -1,13 +1,14 @@
 {
-  "id": "decorativeboxes:birch_box",
+  "id": "decorativeboxes:oak_box",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/box/birch"
+      "default": "minecraft:custom/block/wood/box/oak"
     }
   },
   "blockModelType": "full_block",
+  "group": "decorativeboxes:decorativeboxes",
   "properties": {
-    "blockBase": "minecraft:birch_planks",
+    "blockBase": "minecraft:oak_planks",
     "destroyTime": 2,
     "explosionResistance": 3,
     "requiresTool": false
